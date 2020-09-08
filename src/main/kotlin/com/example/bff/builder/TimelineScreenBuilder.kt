@@ -76,7 +76,7 @@ class TimelineScreenBuilder(private val data: List<TimelineItemDTO>,
                         .appendCodePoint(0x1F4B0)
                         .toString(),
                 value = value,
-                date = ""
+                date = timeline.date.toString()
         )
     }
 
