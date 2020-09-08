@@ -55,4 +55,4 @@ Neste exemplo o BFF está dizendo que a chamada para o nosso endpoint de timelin
 ![](demo/ios.jpg)
 
 ## Demo
-![](demo/demo.mp4)
+![](demo/demo.gif)
