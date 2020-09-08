@@ -7,7 +7,7 @@ Estou utilizando o mock.io para simular uma chamada a um microserviço.
 ## Postman 
 Após rodar a aplicação você pode fazer um teste no postman para ver o que o beagle está retornando. Basta fazer um get na seguinte URL ``http://localhost:8080/loan/timeline/1?offset=-03:00``.
 
-``
+```
 {
    "_beagleType_":"beagle:component:screencomponent",
    "identifier":null,
@@ -45,7 +45,7 @@ Após rodar a aplicação você pode fazer um teste no postman para ver o que o 
    "appearance":null,
    "screenAnalyticsEvent":null
 }
-``
+```
 
 Para ter uma visão completa de como funciona o beagle. Você pode rodar o projeto em iOS disponível nesse repositório https://github.com/mateusforgi/bff-ios.
 
