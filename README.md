@@ -52,8 +52,7 @@ Para ter uma visão completa de como funciona o beagle. Você pode rodar o proje
 O projeto iOS implementa o componente que o nosso BFF está dizendo que deve ser renderizado na tela. 
 Neste exemplo o BFF está dizendo que a chamada para o nosso endpoint de timeline  vai retornar uma lista de componentes do tipo timelinewidget. Portando nosso projeto iOS vai ter que implementar esse componente para poder renderizar a tela, visto que esse é um componente não nativo no beagle. A imagem abaixo mostra a tela que foi renderizada.
 
-![alt text](https://github.com/mateusforgi/bff/tree/master/demo/ios.png)
-
+![](demo/ios.jpg)
 
 ## Demo
-![alt text](https://github.com/mateusforgi/bff/tree/master/demo/demo.mov)
+![](demo/demo.mp4)
